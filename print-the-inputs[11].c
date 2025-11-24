@@ -1,3 +1,16 @@
+/*
+Sample Input
+============
+3 12345678912345 a 334.23 14049.30493
+
+Sample Output
+=============
+3
+12345678912345
+a
+334.230
+14049.304930000*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
